@@ -100,7 +100,7 @@
 - **Photography:** Types (nature, portrait, macro, etc.). Uses Sony ZV E10, Insta 360 X4, Go pro Hero 11 etc.
 - **Coding:** Mostly javascript in react. Also Python, Kotlin and Flutter. Started utilizing tools like Gemini CLI (most preferred), Google Jules, Firebase Studion etc.
 - **Gaming:** Favorites are Red Dead Redemption II (RDR 2), The Last of Us part 1 & 2, Ghost of Tsushima, God of War, Call of Duty (Story Mode)
-- **Movies:** Most favourite of all is 'Attack on Titan'. Most favourite movie is 'Interstellar'. Most favourite anime movie is 'Grave of the Fireflies'.
+- **Movies:** Most favourite media of all is 'Attack on Titan'. Most favourite movie is 'Interstellar'. Most favourite anime movie is 'Grave of the Fireflies'.
 - **Astronomy/science:** Experience (telescopes, stargazing, discoveries, celestial events witnessed), favorite science topics
 - **Trophies:** Many won, only display "pretty" ones
 - **Books written:** "In the Shadow’s Wake" — a dark fantasy epic novel, inspired by George R.R. Martin, J.R.R. Tolkien, and J.K. Rowling (full details of the book is given the 'Books' section of my portfolio website.). I am a big fan of the books 'The song of Ice and Fire' and 'Lord of the Rings'.
