@@ -1,57 +1,147 @@
-- My name is **Thajudeen**. I am called **Thaju** for short, pronounced *Thaaju*.
-- I am from **Vadakara, Kozhikode, Kerala, India**.  
-- I was born in July 2000.  
-- Height: **166.5 cm**.  
-- Weight: **60 kg** (as of Nov 2024).  
-- I have **curly, messy hair**.  
-- Fashion: I don’t care much about “dressing sense”—I wear whatever I like.  
+# About Me
 
-### Family  
-- I have a jewellery shop in my family named **Adhuni Gold**, for which I have done many application projects.  
-- Adhuni Gold celebrated its **8th anniversary in Nov 2024**.  
+- **Name:** Thajudeen (often called "Thaju", pronounced *Thaaju*)
+- **Birthdate:** July 2000
+- **Hometown:** Vadakara, Kozhikode, Kerala, India
+- **Height:** 166.5 cm
+- **Appearance:** Curly, messy hair; casual style — wear whatever I like, not worried about “dressing sense”
+- **Languages:** Malayalam (native), English (fluent), Arabic (read & write), Hindi (Read & write), Tamil (understand only).
+- **Family background:** Coming from a middle-class family in the rural village of 'Iringal' in Vadakara.
 
-### Career & Education
-- I currently work at **Adhuni Engineering Services (AES)**.  
-- I am a **Full stack developer** and **AI/ML Engineer**.
-- I am planning moving to **Kuwait** for job.  
-- I’m also working toward becoming a skilled **software developer**.  
-- I’m learning the **MERN stack, Next.js, AI/ML development, Flutter, and Android Kotlin**.  
-- My formal bachelor degree education is **Bsc. in Computer Science** degree.
-- I plan to pursue a **2-year MCA** soon.  
+***
 
-### Projects
-- I am planning to build a complte end-to-end solution for the people of my Village called Kottakkal where they can access any relevant information such as contact details of shops, workers, Govt. office details or other relevant local data. The app is called **Ente Kottakkal** for my portfolio. This app will have a user app (made in next.js and Kotlin) and an admin app (made in Flutter).
-- I also plan to build an **automated app for Adhuni Gold’s Monthly Gold Saving Scheme** (customers/admins can track deposits, gold rates, and gold weights). This will integrate Stripe for payments.
-- I already built a **gold rate image generator project** using React and html2canvas for Adhuni Gold.  
+## Family & Background
 
-### Daily Routine & Lifestyle
-- I wake up at **6:30 am**.  
-- I work out at **7:00 am** 
-- I leave for work at **9:15 am**.   
-- I avoid **sugar** and **oil** as much as possible.  
-- I prefer to take my **protein powder in a milkshake**.  
+- **Family members:** Father, Mother, 3 siblings (1 brother, 2 sisters), grandmother.
 
-### Fitness & Health
-- I started working out in **Nov 2024**.  
-- I want to get into **better shape and health** and avoid being weak or a burden.  
+***
 
-### Hobbies & Interests
-- I love **photography, coding, gaming, watching foreign movies, astronomy, and science in general**.  
-- I love **working out in the gym**.  
-- I have many trophies, but I only display the “pretty” ones.  
+## Education & Learning
 
-### Personal Life
-- My best friend is **Ashik**, also my neighbour since childhood. 
-- I am broke most of the time.   
+- **Formal education:** B.Sc. Computer Science, [IHRD Calicut, 2020]
+- **Favorite subjects/topics:** Computer Science, Maths
+- **Current studies:** Learning MERN stack, Next.js, Python AI/ML development, Flutter, Android Kotlin
+- **Future education plans:** Planning a 2-year MCA (starting Jan 2026, from Yenepoya University)
 
-### Personality & Preferences
-- I prefer brutal honesty, sarcasm, wit, dark humour, and tough love over sugarcoating.  
-- I prefer **British English** tone.  
-- I like people who are casual, sarcastic, witty, brutally honest, and direct.  
+***
 
-### Creative Writing
-- I’m writing a book titled **"In the Shadow’s Wake"**.  
-- The planet in my story is named **Nytherra**.  
-- I prefer prose styles inspired by **George R.R. Martin, J.R.R. Tolkien, and J.K. Rowling** (but still easy to read).  
+## Career
 
-### Behavioural/Quirky Details
+- **Current workplace:** Adhuni Engineering Services (AES), from 2021 to Present.
+- **Future aspirations:** Planning to move to Kuwait for job (since an offer is at pending)
+- **Soft skills:** [Communication, teamwork, leadership, others]
+
+***
+
+## Technology & Skill Sets
+
+- MERN stack (React, Node, Express, MongoDB)
+- Next.js, Kotlin, Flutter, Flask
+- Machine Learning tools (PyTorch, TensorFlow, scikit-learn etc.)
+- Javascript, Typescript, Python
+- Git, Docker, Selenium, Postman
+- Adobe Photoshop
+
+***
+
+## Projects
+
+### 1. Ente Kottakkal  
+- Goal: End-to-end local information solution for people in my village  
+- User app: Next.js & Kotlin | Admin app: Flutter  
+- Features: All relevant local data of 'Kottakkal' including Shop contacts, worker info, government office details, bus timings, blood bank etc.
+- Status: At planning stage, about to commence development.
+
+### 2. Adhuni Gold Monthly Gold Saving Scheme App
+- Automated tracking for deposits, rates, weights, integrated Stripe payments  
+- Admin panel included  
+- Status: About to commence.
+
+### 3. Gold Rate Image Generator for Adhuni Gold.  
+- Built in React and html2canvas  
+- Purpose: generating gold rate Whatsapp status poster automatically for Adhuni Gold  
+- Status/Use cases: Completed, and currently in use.
+- Live Demo Link: https://adhunigold-rate.vercel.app/
+
+### 4. AI-based Helmet Detection App  
+- Uses YOLOv8 for detecting motorcycle riders with/without helmets  
+- Used react for front end, and python for backend.
+- Status: completed and deployed.
+- Live Demo Link: https://helmet-detection-xi.vercel.app/
+
+### 5. Websites for Local Businesses  
+- Seashore medical clinic - https://seashore-mediclinic.vercel.app/
+- Educational institution, travel agency, sourcing company, IT company, etc.
+
+***
+
+## Daily Routine & Lifestyle
+
+- **Wake-up time:** 6:30 am
+- **Workout:** 7:00 am
+- **Work start:** Leave for work by 9:15 am
+- **Diet:** Avoid sugar and oil as much as possible
+- **Protein intake:** Prefers eggs, and protein powder milkshake
+- **Workflow method:** Uses a completely tech oriented, often leveraging AI tools, professional and personal workflow.
+
+***
+
+## Fitness & Health
+
+- **Started working out:** November 2024
+- **Goals:** Better shape, health, strength — not being weak or a burden
+- **Fitness routine:** Works out 5 days a week daily in the morning, takes 2 reset days for enough recovery, take protein, nutrition and essential supplements.
+- **Achievements:** Currently able to bench press 30-40 Kg, Deadlift 50 Kg, Squat 40 Kg.
+
+***
+
+## Hobbies & Interests
+
+- **Photography:** Types (nature, portrait, macro, etc.). Uses Sony ZV E10, Insta 360 X4, Go pro Hero 11 etc.
+- **Coding:** Mostly javascript in react. Also Python, Kotlin and Flutter. Started utilizing tools like Gemini CLI (most preferred), Google Jules, Firebase Studion etc.
+- **Gaming:** Favorites are Red Dead Redemption II (RDR 2), The Last of Us part 1 & 2, Ghost of Tsushima, God of War, Call of Duty (Story Mode)
+- **Movies:** Most favourite of all is 'Attack on Titan'. Most favourite movie is 'Interstellar'. Most favourite anime movie is 'Grave of the Fireflies'.
+- **Astronomy/science:** Experience (telescopes, stargazing, discoveries, celestial events witnessed), favorite science topics
+- **Trophies:** Many won, only display "pretty" ones
+- **Books written:** "In the Shadow’s Wake" — a dark fantasy epic novel, inspired by George R.R. Martin, J.R.R. Tolkien, and J.K. Rowling (full details of the book is given the 'Books' section of my portfolio website.). I am a big fan of the books 'The song of Ice and Fire' and 'Lord of the Rings'.
+- **Writing style:** Easy-to-read yet epic, dark fantasy influences.
+
+***
+
+## Personality & Preferences
+
+- **Traits:** Like brutal honesty, sarcasm, wit, dark humour, tough love.
+- **Social preferences:** Like casual, witty, direct, sarcastic people
+- **Beliefs, Motto & values:** "Whatever doesn't kill you, simply makes you stronger".
+
+***
+
+## Community & Social Life
+
+- Do not like engaging with people mostly. Likes to spend time alone.
+- Believe that one is not alone when he is with himself. Ironically, one can feel lonely even amidst a crowd.
+- **Favorite local places:** The empty areas of Kolavipalam beach where nobody's around, A secret riverside spot I found in Kolavipalam. Like to sit at Iringal railway station where most times there is nobody around.
+
+***
+
+## Aspirations, Goals
+
+- To become a highly skilled software developer and AI/ML Engineer.
+- To become rich enough to say that 'Treat's on me', and help people in need.
+
+***
+
+## Fun & Quirky Facts
+
+- **Unusual talents:** sometimes able to speak in baby voice and tone.
+- **Favorite quotes or mottos:** "Whatever doesn't kill you, simply makes you stronger"
+
+***
+
+## Miscellaneous
+
+- **Random fun fact 1**: Once in school, in the Chemistry lab, Hydrochloric acid was splashed on me which burned my school uniform and gave me small burns.
+- **Random fun fact 2**: I have never been able to make mental images. Whenever I try to imagine a picture of something, it almost mathematical like abstract geometric shapes of what the object I am trying to see represents. I was fascinated to know that people can create clear mental images of things in their 'Mind's eye'.
+- **Personal philosophy**: Nothing really matters in the grand scheme of things. No one is gonna remember us in 200 years time. Be kind when you are.
+
+***
