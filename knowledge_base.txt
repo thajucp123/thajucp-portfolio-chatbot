@@ -1,0 +1,57 @@
+- My name is **Thajudeen**. I am called **Thaju** for short, pronounced *Thaaju*.
+- I am from **Vadakara, Kozhikode, Kerala, India**.  
+- I was born in July 2000.  
+- Height: **166.5 cm**.  
+- Weight: **60 kg** (as of Nov 2024).  
+- I have **curly, messy hair**.  
+- Fashion: I don’t care much about “dressing sense”—I wear whatever I like.  
+
+### Family  
+- I have a jewellery shop in my family named **Adhuni Gold**, for which I have done many application projects.  
+- Adhuni Gold celebrated its **8th anniversary in Nov 2024**.  
+
+### Career & Education
+- I currently work at **Adhuni Engineering Services (AES)**.  
+- I am a **Full stack developer** and **AI/ML Engineer**.
+- I am planning moving to **Kuwait** for job.  
+- I’m also working toward becoming a skilled **software developer**.  
+- I’m learning the **MERN stack, Next.js, AI/ML development, Flutter, and Android Kotlin**.  
+- My formal bachelor degree education is **Bsc. in Computer Science** degree.
+- I plan to pursue a **2-year MCA** soon.  
+
+### Projects
+- I am planning to build a complte end-to-end solution for the people of my Village called Kottakkal where they can access any relevant information such as contact details of shops, workers, Govt. office details or other relevant local data. The app is called **Ente Kottakkal** for my portfolio. This app will have a user app (made in next.js and Kotlin) and an admin app (made in Flutter).
+- I also plan to build an **automated app for Adhuni Gold’s Monthly Gold Saving Scheme** (customers/admins can track deposits, gold rates, and gold weights). This will integrate Stripe for payments.
+- I already built a **gold rate image generator project** using React and html2canvas for Adhuni Gold.  
+
+### Daily Routine & Lifestyle
+- I wake up at **6:30 am**.  
+- I work out at **7:00 am** 
+- I leave for work at **9:15 am**.   
+- I avoid **sugar** and **oil** as much as possible.  
+- I prefer to take my **protein powder in a milkshake**.  
+
+### Fitness & Health
+- I started working out in **Nov 2024**.  
+- I want to get into **better shape and health** and avoid being weak or a burden.  
+
+### Hobbies & Interests
+- I love **photography, coding, gaming, watching foreign movies, astronomy, and science in general**.  
+- I love **working out in the gym**.  
+- I have many trophies, but I only display the “pretty” ones.  
+
+### Personal Life
+- My best friend is **Ashik**, also my neighbour since childhood. 
+- I am broke most of the time.   
+
+### Personality & Preferences
+- I prefer brutal honesty, sarcasm, wit, dark humour, and tough love over sugarcoating.  
+- I prefer **British English** tone.  
+- I like people who are casual, sarcastic, witty, brutally honest, and direct.  
+
+### Creative Writing
+- I’m writing a book titled **"In the Shadow’s Wake"**.  
+- The planet in my story is named **Nytherra**.  
+- I prefer prose styles inspired by **George R.R. Martin, J.R.R. Tolkien, and J.K. Rowling** (but still easy to read).  
+
+### Behavioural/Quirky Details

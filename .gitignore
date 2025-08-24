@@ -1,0 +1,9 @@
+# Environment variables
+# To ignore all files ending with .env, you can use *.env
+.env
+
+# Jupyter Notebook files
+*.ipynb
+
+# Gemini customization file
+gemini.md
