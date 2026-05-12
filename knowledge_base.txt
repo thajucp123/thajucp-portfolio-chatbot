@@ -10,13 +10,13 @@
 * **Languages Known:** Malayalam (native), English (fluent), Arabic (read/write), Hindi (read/write), Tamil (understandable)
 * **Profession roles:** AI/ML Engineer, Data Scientist, Full Stack Developer
 * **Current Workplace:** Adhuni Engineering Services (AES), India
-* **Education:** Master of Computer Applications (MCA) — Yenepoya University, BSc. in Computer Science - Calicut University.
+* **Education:** Master of Computer Applications (MCA) — Yenepoya University, BSc. in Computer Science - Calicut University, Specialized Certification course in AI - Machine Learning developer from ASAp Kerala.
 
 ---
 
 # Professional Overview
 
-Thajudeen is a self-driven technology professional with experience spanning technical operations, administration, software systems, and AI/ML development.
+Thajudeen is a self-driven technology professional with experience spanning AI/ML development, technical operations, software systems, and Full stack development.
 
 His career began in engineering operations and inspection coordination, where he managed technical workflows, office operations, reporting systems, and team coordination across multiple divisions within the Adhuni Group.
 
