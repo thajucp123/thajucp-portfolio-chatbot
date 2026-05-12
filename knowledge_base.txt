@@ -1,135 +1,320 @@
-# About Me
+# About Thajudeen CP
 
-- **Name:** Thajudeen (often called "Thaju", pronounced *Thaaju*)
-- **Birthdate:** July 2000
-- **Hometown:** Vadakara, Kozhikode, Kerala, India
-- **Height:** 166.5 cm
-- **Appearance:** Curly, messy hair; casual style — wear whatever I like, not worried about “dressing sense”
-- **Languages:** Malayalam (native), English (fluent), Arabic (read & write), Hindi (Read & write), Tamil (understand only).
-- **Family background:** Coming from a middle-class family in the rural village of 'Iringal' in Vadakara.
+## Basic Information
 
-***
+* **Full Name:** Thajudeen CP
+* **Preferred Name:** Thaju (pronounced "Thaaju")
+* **Birth Year:** July 2000
+* **Location:** Vadakara, Kozhikode, Kerala, India
+* **Nationality:** Indian
+* **Languages Known:** Malayalam (native), English (fluent), Arabic (read/write), Hindi (read/write), Tamil (understandable)
+* **Profession roles:** AI/ML Engineer, Data Scientist, Full Stack Developer
+* **Current Workplace:** Adhuni Engineering Services (AES), India
+* **Education:** Master of Computer Applications (MCA) — Yenepoya University, BSc. in Computer Science - Calicut University.
 
-## Family & Background
+---
 
-- **Family members:** Father, Mother, 3 siblings (1 brother, 2 sisters), grandmother.
+# Professional Overview
 
-***
+Thajudeen is a self-driven technology professional with experience spanning technical operations, administration, software systems, and AI/ML development.
 
-## Education & Learning
+His career began in engineering operations and inspection coordination, where he managed technical workflows, office operations, reporting systems, and team coordination across multiple divisions within the Adhuni Group.
 
-- **Formal education:** B.Sc. Computer Science, [IHRD Calicut, 2020]
-- **Favorite subjects/topics:** Computer Science, Maths
-- **Current studies:** Learning MERN stack, Next.js, Python AI/ML development, Flutter, Android Kotlin
-- **Future education plans:** Planning a 2-year MCA (starting Jan 2026, from Yenepoya University)
+Alongside his professional responsibilities, he independently pursued software development and AI/ML engineering through MCA, self-learning, project building, and continuous experimentation.
 
-***
+His current primary focus areas include:
 
-## Career
+* Computer Vision
+* Machine Learning
+* AI-assisted workflows
+* Full Stack Development
+* Automation systems
+* Real-world industrial AI applications
 
-- **Current workplace:** Adhuni Engineering Services (AES), from 2021 to Present.
-- **Future aspirations:** Planning to move to Kuwait for job (since an offer is at pending)
-- **Soft skills:** [Communication, teamwork, leadership, others]
+He is particularly interested in building practical systems that solve operational and business problems rather than purely theoretical software.
 
-***
+---
 
-## Technology & Skill Sets
+# Technical Skill Set
 
-- MERN stack (React, Node, Express, MongoDB)
-- Next.js, Kotlin, Flutter, Flask
-- Machine Learning tools (PyTorch, TensorFlow, scikit-learn etc.)
-- Javascript, Typescript, Python
-- Git, Docker, Selenium, Postman
-- Adobe Photoshop
+## AI/ML & Data
 
-***
+* Computer Vision
+* Machine Learning
+* OpenCV
+* YOLOv8
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* NumPy
+* Pandas
+* Matplotlib
+* SQL
+* Data Analysis
+* Jupyter Notebook
+* Power BI
 
-## Projects
+## Full Stack Development
 
-### 1. Ente Kottakkal  
-- Goal: End-to-end local information solution for people in my village  
-- User app: Next.js & Kotlin | Admin app: Flutter  
-- Features: All relevant local data of 'Kottakkal' including Shop contacts, worker info, government office details, bus timings, blood bank etc.
-- Status: At planning stage, about to commence development.
+* Python
+* JavaScript
+* TypeScript
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
 
-### 2. Adhuni Gold Monthly Gold Saving Scheme App
-- Automated tracking for deposits, rates, weights, integrated Stripe payments  
-- Admin panel included  
-- Status: About to commence.
+## DevOps & Infrastructure
 
-### 3. Gold Rate Image Generator for Adhuni Gold.  
-- Built in React and html2canvas  
-- Purpose: generating gold rate Whatsapp status poster automatically for Adhuni Gold  
-- Status/Use cases: Completed, and currently in use.
-- Live Demo Link: https://adhunigold-rate.vercel.app/
+* AWS
+* Docker
+* Linux
+* Git & GitHub
+* CI/CD workflows
+* GitHub Actions
+* Jenkins
 
-### 4. AI-based Helmet Detection App  
-- Uses YOLOv8 for detecting motorcycle riders with/without helmets  
-- Used react for front end, and python for backend.
-- Status: completed and deployed.
-- Live Demo Link: https://helmet-detection-xi.vercel.app/
+## Additional Tools
 
-### 5. Websites for Local Businesses  
-- Seashore medical clinic - https://seashore-mediclinic.vercel.app/
-- Educational institution, travel agency, sourcing company, IT company, etc.
+* Flutter
+* Android Kotlin
+* Firebase
+* Figma
+* Adobe Photoshop
 
-***
+---
 
-## Daily Routine & Lifestyle
+# Professional Experience
 
-- **Wake-up time:** 6:30 am
-- **Workout:** 7:00 am
-- **Work start:** Leave for work by 9:15 am
-- **Diet:** Avoid sugar and oil as much as possible
-- **Protein intake:** Prefers eggs, and protein powder milkshake
-- **Workflow method:** Uses a completely tech oriented, often leveraging AI tools, professional and personal workflow.
+## Adhuni Engineering Services (AES)
 
-***
+### Technical Operations Associate
 
-## Fitness & Health
+**2021 – Present**
 
-- **Started working out:** November 2024
-- **Goals:** Better shape, health, strength — not being weak or a burden
-- **Fitness routine:** Works out 5 days a week daily in the morning, takes 2 reset days for enough recovery, take protein, nutrition and essential supplements.
-- **Achievements:** Currently able to bench press 30-40 Kg, Deadlift 50 Kg, Squat 40 Kg.
+Responsibilities include:
 
-***
+* Development of internal software and AI tools
+* Inspection coordination
+* Technical operations management
+* Internal systems support
+* Team supervision
+* Technical hiring participation
+* Documentation workflows
+* Client communication
+* Administrative operations
 
-## Hobbies & Interests
+Additional responsibilities involved:
 
-- **Photography:** Types (nature, portrait, macro, etc.). Uses Sony ZV E10, Insta 360 X4, Go pro Hero 11 etc.
-- **Coding:** Mostly javascript in react. Also Python, Kotlin and Flutter. Started utilizing tools like Gemini CLI (most preferred), Google Jules, Firebase Studion etc.
-- **Gaming:** Favorites are Red Dead Redemption II (RDR 2), The Last of Us part 1 & 2, Ghost of Tsushima, God of War, Call of Duty (Story Mode)
-- **Movies:** Most favourite media of all is 'Attack on Titan'. Most favourite movie is 'Interstellar'. Most favourite anime movie is 'Grave of the Fireflies'.
-- **Astronomy/science:** Experience (telescopes, stargazing, discoveries, celestial events witnessed), favorite science topics
-- **Trophies:** Many won, only display "pretty" ones
-- **Books written:** "In the Shadow’s Wake" — a dark fantasy epic novel, inspired by George R.R. Martin, J.R.R. Tolkien, and J.K. Rowling (full details of the book is given the 'Books' section of my portfolio website.). I am a big fan of the books 'The song of Ice and Fire' and 'Lord of the Rings'.
-- **Writing style:** Easy-to-read yet epic, dark fantasy influences.
+* Managing operations across multiple divisions within Adhuni Group
+* Supporting Adhuni Gold Jewellers operations
+* Supporting Adhuni Institute of Certification & Training
 
-***
+---
 
-## Personality & Preferences
+# Major Projects
 
-- **Traits:** Like brutal honesty, sarcasm, wit, dark humour, tough love.
-- **Social preferences:** Like casual, witty, direct, sarcastic people
-- **Beliefs, Motto & values:** "Whatever doesn't kill you, simply makes you stronger".
+## Weld Defect Detection System (Visual Inspection Assistant)
 
-***
+An industry-applied computer vision system designed for identifying weld defects in standard and X-ray images. Currently being used inside AES.
 
-## Community & Social Life
+### Technologies Used
 
-- Do not like engaging with people mostly. Likes to spend time alone.
-- Believe that one is not alone when he is with himself. Ironically, one can feel lonely even amidst a crowd.
-- **Favorite local places:** The empty areas of Kolavipalam beach where nobody's around, A secret riverside spot I found in Kolavipalam. Like to sit at Iringal railway station where most times there is nobody around.
+* YOLOv8
+* OpenCV
+* PyTorch / TensorFlow
+* NumPy
+* Pandas
+* React.js
+* AWS
 
-***
+### Features
 
-## Aspirations, Goals
+* Image preprocessing
+* Image augmentation
+* Model inference workflows
+* Frontend API integration
+* Inspection assistance system
 
-- To become a highly skilled software developer and AI/ML Engineer.
-- To become rich enough to say that 'Treat's on me', and help people in need.
+### Purpose
 
-***
+The project was designed to reduce manual inspection effort and improve workflow efficiency within industrial NDT (Non-Destructive Testing) processes.
+
+---
+
+## Ente Kottakkal
+
+A community-focused digital platform developed for the local population of Kottakkal village.
+
+### Features
+
+* Blood bank database
+* Public contact directory
+* Worker & shop listings
+* Bus timings
+* Local organization details
+* Community resource access
+
+### Tech Stack
+
+* Next.js
+* Flutter
+* Firebase
+* Android Kotlin
+* AWS
+
+### Modules
+
+* Main user application
+* Admin dashboard
+* Landing website
+
+---
+
+## Gold Rate Image Generator
+
+A React-based automation tool built for Adhuni Gold Jewellers.
+
+### Purpose
+
+Automatically generates daily gold-rate posters and WhatsApp status images.
+
+### Technologies
+
+* React.js
+* html2canvas
+
+---
+
+## AI Helmet Detection System
+
+An AI-powered safety detection application for identifying motorcycle riders wearing or not wearing helmets.
+
+### Technologies
+
+* YOLOv8
+* Python
+* React.js
+
+---
+
+# Learning & Career Goals
+
+Current learning focus includes:
+
+* Advanced AI/ML Engineering and Data Science
+* Deep Learning
+* Computer Vision
+* Model deployment
+* Data Engineering fundamentals
+* Cloud infrastructure
+* Practical AI system design
+
+Future goals:
+
+* Become a highly skilled AI/ML Engineer and Data Scientist
+* Build practical AI-powered products
+* Develop scalable software systems
+* Achieve financial stability and support family
+* Eventually work internationally in the information technology sector
+
+---
+
+# Personality & Work Style
+
+* Strong believer in self-learning and continuous improvement
+* Prefers practical problem solving over theory-heavy approaches
+* Interested in automation and workflow optimization
+* Enjoys independent work and deep-focus environments
+* Appreciates direct communication, honesty, sarcasm, and humour
+* Uses technology extensively in daily workflows
+
+---
+
+# Hobbies & Interests
+
+## Technology
+
+* Software development
+* AI/ML experimentation
+* Linux systems
+* DIY electronics
+* Hardware restoration
+* Astronomy & science
+
+## Creative Interests
+
+* Photography
+* Fiction writing
+* Worldbuilding
+* Storytelling
+
+## Fitness
+
+* Gym training
+* Strength improvement
+* Nutrition & health optimization
+
+## Gaming & Media
+
+Favourite games include:
+
+* Red Dead Redemption 2
+* The Last of Us
+* God of War
+* Ghost of Tsushima
+
+Favourite media:
+
+* Attack on Titan
+* Interstellar
+* Grave of the Fireflies
+
+---
+
+# Books & Writing
+
+Thajudeen is also an independent fiction writer with interests in:
+
+* Dark fantasy
+* Science fiction
+* Psychological storytelling
+* Time travel concepts
+* Absurd humour
+
+Published works include:
+
+* In the Shadow's Wake
+* Eir Ad
+* The Valiant King
+* Vanaganam Republic
+* My Daughter's Name
+* In the Ancient Silence
+* In the Timeless Sands
+
+His literature interest is heavily inspired by:
+
+* George R.R. Martin
+* J.R.R. Tolkien
+* J.K. Rowling
+
+while still aiming to remain accessible and emotionally engaging for general readers.
+
+---
+
+# Philosophy & Personal Views
+
+* Believes that resilience is built through hardship
+* Values kindness, humility, and personal growth
+* Strongly believes in becoming self-reliant
+* Often reflects on existential and philosophical topics
+* Enjoys solitude and quiet environments for thinking and creativity
+
+Favourite quote:
+
+> "Whatever doesn't kill you, simply makes you stronger."
 
 ## Fun & Quirky Facts
 
@@ -140,8 +325,8 @@
 
 ## Miscellaneous
 
-- **Random fun fact 1**: Once in school, in the Chemistry lab, Hydrochloric acid was splashed on me which burned my school uniform and gave me small burns.
-- **Random fun fact 2**: I have never been able to make mental images. Whenever I try to imagine a picture of something, it almost mathematical like abstract geometric shapes of what the object I am trying to see represents. I was fascinated to know that people can create clear mental images of things in their 'Mind's eye'.
+- **Random fun fact 1**: Once in school, in the Chemistry lab, Hydrochloric acid was splashed on him which burned his school uniform and gave him small burns.
+- **Random fun fact 2**: He has never been able to make mental images. Whenever he try to imagine a picture of something, it almost mathematical like abstract geometric shapes of the object he is trying to see represents. He was fascinated to know that people can create clear mental images of things in their 'Mind's eye'. He believes he has a condition called 'Aphantasia'.
 - **Personal philosophy**: Nothing really matters in the grand scheme of things. No one is gonna remember us in 200 years time. Be kind when you are.
 
 ***
