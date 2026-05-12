@@ -1,129 +1,101 @@
-# Thajucp.in Personal Portfolio Chatbot with Google Gemini
+# KnowThaj - Personal Portfolio Chatbot
 
-This project is a simple, yet powerful, personal chatbot powered by the Google Gemini API. It's designed for [my personal portfolio website](https://www.thajucp.in/), allowing visitors to ask questions about me get intelligent, context-aware answers based on a knowledge base I have provided about myself.
+KnowThaj is an AI-powered portfolio assistant designed to answer questions about Thajudeen CP ("Thaju"). It leverages a custom knowledge base and the advanced capabilities of Google Gemini to provide professional, concise, and human-like responses to visitors.
 
-The chatbot is built with Flask, making it a lightweight and easy-to-deploy backend service.
+This backend service is built with Flask and is optimized for seamless integration with a frontend portfolio website.
 
-- [Live Demo](https://www.thajucp.in/) (Use the chat bot from the bottom right FAB)
+## 🚀 Features
 
-## Features
+-   **Context-Aware Responses:** Answers questions using a dedicated `knowledge_base.txt`.
+-   **Advanced AI Model:** Powered by the **Google Gemini 2.5 Flash** model.
+-   **Secure & Robust:** Implements environment variable management for API keys and CORS for secure cross-origin requests.
+-   **Postman Verified:** The backend logic and API responses have been rigorously tested and verified using Postman.
+-   **Cloud Ready:** Configured for easy deployment on platforms like Vercel.
 
--   **Personalized Responses:** Answers questions based on a custom knowledge base about myself.
--   **Powered by Gemini:** Leverages the advanced capabilities of Google's Gemini Flash model for natural language understanding.
--   **Flask Backend:** A simple and robust Flask server that exposes a single API endpoint for chat.
--   **Easy to Customize:** Designed for easy customization of the knowledge base and chatbot's personality.
--   **Secure API Key Handling:** Uses environment variables to keep my Google Gemini API key secure.
--   **CORS Enabled:** Cross-Origin Resource Sharing (CORS) is enabled for easy integration with my portfolio website frontend.
+## 🛠️ Tech Stack
 
-## How It Works
+-   **Language:** Python
+-   **Framework:** Flask
+-   **AI Engine:** Google Generative AI (Gemini 2.5 Flash)
+-   **Environment Management:** python-dotenv
+-   **Deployment:** Vercel
 
-The application consists of a single Flask server that listens for POST requests on the `/chat` endpoint. When a request is received with a user's question, the server combines the question with the content of the `knowledge_base.txt` file and a predefined prompt. This combined text is then sent to the Google Gemini API, which generates a response. The response is then sent back to the user.
+## 🔌 API Endpoints
 
-## Getting Started
+The backend provides the following endpoints for frontend integration:
 
-Follow these instructions to get the chatbot up and running on a local machine.
+### 📡 Status Endpoint
 
-### Prerequisites
+**URL:** `/status`  
+**Method:** `GET`
 
--   Python
--   `pip` (Python package installer)
+**Success Response (200 OK):**
+```json
+{
+  "status": "online",
+  "model": "gemini-2.5-flash",
+  "assistant": "KnowThaj"
+}
+```
 
-### Installation & Setup
+### 💬 Chat Endpoint
 
-1.  **Clone the repository:**
-    clone the repo or download the files.
+**URL:** `/chat`  
+**Method:** `POST`  
+**Content-Type:** `application/json`
+
+**Request Body:**
+```json
+{
+  "question": "What are Thaju's top skills?"
+}
+```
+
+**Success Response (200 OK):**
+```json
+{
+  "answer": "Thaju specializes in Python, Flask, and AI integration. He has extensive experience in building web applications and intelligent chatbots."
+}
+```
+
+**Error Responses:**
+-   `400 Bad Request`: Missing `question` in request body.
+-   `415 Unsupported Media Type`: Request is not JSON.
+-   `500 Internal Server Error`: API configuration issues or service unavailability.
+
+## 🧪 Development & Testing
+
+The API has been verified using **Postman** to ensure consistent and accurate responses. 
+
+### Local Setup
+
+1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/thajucp123/thajucp-portfolio-chatbot.git
-    cd thajucp-portfolo-chatbot
+    cd thajucp-portfolio-chatbot
     ```
 
-2.  **Create and activate a virtual environment:**
-    It's highly recommended to use a virtual environment to manage the project's dependencies.
+2.  **Environment Configuration:**
+    Create a `.env` file in the root directory:
+    ```env
+    GEMINI_API_KEY=your_gemini_api_key_here
+    ```
 
-    *   **On Windows:**
-        ```bash
-        python -m venv venv
-        .\venv\Scripts\activate
-        ```
-
-    *   **On macOS and Linux:**
-        ```bash
-        python3 -m venv venv
-        source venv/bin/activate
-        ```
-
-3.  **Install dependencies:**
-    Install all the required packages from the `requirements.txt` file.
+3.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Set up your API Key:**
-    The application uses a `.env` file to manage the Google Gemini API key.
-
-    -   Open the `.env` file and add your Google Gemini API key:
-        ```
-        GEMINI_API_KEY=YOUR_GOOGLE_GEMINI_API_KEY
-        ```
-    You can get your API key from the [Google AI Studio](https://aistudio.google.com/).
-
-5.  **Customize the Knowledge Base:**
-    Open the `knowledge_base.txt` file and replace the existing content with your own personal and professional information. It currently has descriptions about me. This is the data the chatbot will use to answer questions.
-
-### Running the Application
-
-Once you've completed the setup, you can start the Flask server:
-
-```bash
-python app.py
-```
-
-The server will start on `http://127.0.0.1:5000`.
-
-### Interacting with the Chatbot
-
-You can interact with the chatbot by sending a `POST` request to the `/chat` endpoint.
-
-**Example using `curl`:**
-
-```bash
-curl -X POST -H "Content-Type: application/json" -d '{"question": "What is your name?"}' http://127.0.0.1:5000/chat
-```
-
-**Example using Postman:**
-
--   **URL:** `http://127.0.0.1:5000/chat`
--   **Method:** `POST`
--   **Headers:** `Content-Type: application/json`
--   **Body (raw, JSON):**
-    ```json
-    {
-        "question": "Tell me about your projects."
-    }
+4.  **Run Locally:**
+    ```bash
+    python app.py
     ```
+    The server will start at `http://127.0.0.1:5000`.
 
-## Building for Yourself
+## 📦 Deployment
 
-This project is designed to be a template for your own personal chatbot. Here's how you can customize it further:
+This project includes a `vercel.json` configuration for one-click deployment to Vercel. Ensure you set the `GEMINI_API_KEY` in your Vercel project's environment variables.
 
--   **`knowledge_base.txt`:** This is the most important file for you to edit. The more detailed and well-structured the information in this file, the better the chatbot's responses will be.
--   **`app.py`:**
-    -   **Prompt Engineering:** You can modify the `prompt` variable in `app.py` to change the chatbot's personality, tone, and instructions. The default prompt is designed to be a helpful assistant, but you can make it more formal, casual, or even humorous.
-    -   **Model:** The application uses the `gemini-1.5-flash-latest` model by default. You can change this to other models available from the Gemini API if you have different needs.
+---
 
-## File Structure
-
-```
-.
-├── venv/                   # Virtual environment directory
-├── app.py                  # Main Flask application file
-├── knowledge_base.txt      # Your personal knowledge base
-├── requirements.txt        # Python dependencies
-├── .env                    # For storing your API key
-└── README.md               # This file
-```
-
-## Technology Stack
-
--   **Backend:** Python, Flask
--   **API:** Google Gemini API
+Built with ❤️ by [Thajudeen CP](https://www.thajucp.in/)
